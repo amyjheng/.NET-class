@@ -1,0 +1,13 @@
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\bin\Debug\ClassLibrary1.dll
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\bin\Debug\ClassLibrary1.pdb
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Shared\C#進階\Solution\NTier\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

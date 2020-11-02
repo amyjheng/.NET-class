@@ -1,0 +1,46 @@
+C:\元件開發\MyInterface\MyInterface\bin\Debug\MyInterface.exe
+C:\元件開發\MyInterface\MyInterface\bin\Debug\MyInterface.pdb
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmTestInterface.resources
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\MyInterface.Properties.Resources.resources
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\MyInterface.exe
+C:\元件開發\MyInterface\MyInterface\obj\x86\Debug\MyInterface.pdb
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.exe
+C:\元件開發\3. MyInterface\MyInterface\bin\Debug\MyInterface.exe
+C:\元件開發\3. MyInterface\MyInterface\bin\Debug\MyInterface.pdb
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmMyEmploee.resources
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmTestInterface.resources
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.Properties.Resources.resources
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\元件開發\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmMyEmploee.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmTestInterface.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\3. MyInterface\MyInterface\obj\x86\Debug\MyInterface.csproj.GenerateResource.Cache
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.csprojResolveAssemblyReference.cache
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.FrmMyEmploee.resources
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.FrmTestInterface.resources
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.Properties.Resources.resources
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.csproj.GenerateResource.Cache
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.csproj.CoreCompileInputs.cache
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.exe
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\obj\x86\Debug\MyInterface.pdb
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\bin\Debug\MyInterface.exe
+G:\MSIT 上課\元件開發\元件開發 上課 New\3. MyInterface - 複製\MyInterface\bin\Debug\MyInterface.pdb
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\bin\Debug\MyInterface.exe
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\bin\Debug\MyInterface.pdb
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmMyEmploee.resources
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.FrmTestInterface.resources
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.Properties.Resources.resources
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.exe
+C:\Users\User\Desktop\C#進階\Solution\2. MyInterface\MyInterface\obj\x86\Debug\MyInterface.pdb

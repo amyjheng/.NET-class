@@ -1,0 +1,8 @@
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\ResolveAssemblyReference.cache
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Form1.resources
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Properties.Resources.resources
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csproj.GenerateResource.Cache
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+D:\VS 2005 隨身碟\C # 2005\C# MSIT 養成班\C# 進階\CSharp\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.pdb

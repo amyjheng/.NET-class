@@ -1,0 +1,53 @@
+\\192.168.34.131\元件開發\MyEvents\MyEvents\obj\x86\Debug\MyEvents.exe
+\\192.168.34.131\元件開發\MyEvents\MyEvents\obj\x86\Debug\MyEvents.pdb
+C:\元件開發\MyEvents\MyEvents\bin\Debug\MyEvents.exe
+C:\元件開發\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\MyEvents.Form1.resources
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\MyEvents.Properties.Resources.resources
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\MyEvents.exe
+C:\元件開發\MyEvents\MyEvents\obj\x86\Debug\MyEvents.pdb
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.Form1.resources
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.Properties.Resources.resources
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.csproj.GenerateResource.Cache
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.csproj.CoreCompileInputs.cache
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.exe
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\obj\x86\Debug\MyEvents.pdb
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\bin\Debug\MyEvents.exe
+C:\temp\ff\新增資料夾\test\4. MyEvents - 複製\MyEvents\bin\Debug\MyEvents.pdb
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\bin\Debug\MyEvents.exe
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csprojResolveAssemblyReference.cache
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.Form1.resources
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.Properties.Resources.resources
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.GenerateResource.Cache
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.CoreCompileInputs.cache
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.exe
+C:\C# Advanced\Starter\4. MyEvents\MyEvents\obj\x86\Debug\MyEvents.pdb
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\bin\Debug\MyEvents.exe
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.csprojAssemblyReference.cache
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.Form1.resources
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.Properties.Resources.resources
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.GenerateResource.cache
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.CoreCompileInputs.cache
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.CopyComplete
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.exe
+C:\Fion Data\MSIT 上課\元件開發 上課 New\Starter\MyEvents\MyEvents\obj\x86\Debug\MyEvents.pdb
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\bin\Debug\MyEvents.exe
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\bin\Debug\MyEvents.pdb
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.Form1.resources
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.Properties.Resources.resources
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.csproj.CopyComplete
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.exe
+C:\Users\User\Desktop\C#進階\Solution\3. MyEvents\MyEvents\obj\x86\Debug\MyEvents.pdb

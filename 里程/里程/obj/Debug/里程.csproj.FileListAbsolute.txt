@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\C#進階\里程\里程\bin\Debug\里程.exe.config
+C:\Users\User\Desktop\C#進階\里程\里程\bin\Debug\里程.exe
+C:\Users\User\Desktop\C#進階\里程\里程\bin\Debug\里程.pdb
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.Form1.resources
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.Properties.Resources.resources
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.exe
+C:\Users\User\Desktop\C#進階\里程\里程\obj\Debug\里程.pdb

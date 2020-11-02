@@ -1,0 +1,197 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:ArrayList id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/ns/System.Collections">
+<_items href="#ref-2"/>
+<_size>6</_size>
+<_version>6</_version>
+</a1:ArrayList>
+<SOAP-ENC:Array id="ref-2" SOAP-ENC:arrayType="xsd:anyType[8]">
+<item href="#ref-3"/>
+<item href="#ref-4"/>
+<item href="#ref-5"/>
+<item href="#ref-6"/>
+<item href="#ref-7"/>
+<item href="#ref-8"/>
+</SOAP-ENC:Array>
+<a3:Line id="ref-3" xmlns:a3="http://schemas.microsoft.com/clr/assem/OO_Draw_Simple_AbstractMember_CS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<StartPtr>
+<X>191</X>
+<Y>134</Y>
+</StartPtr>
+<EndPtr>
+<X>404</X>
+<Y>283</Y>
+</EndPtr>
+<Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Color>
+<Shape_x002B_StartPtr>
+<X>191</X>
+<Y>134</Y>
+</Shape_x002B_StartPtr>
+<Shape_x002B_EndPtr>
+<X>404</X>
+<Y>283</Y>
+</Shape_x002B_EndPtr>
+<Shape_x002B_Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Shape_x002B_Color>
+</a3:Line>
+<a3:Ellipse id="ref-4" xmlns:a3="http://schemas.microsoft.com/clr/assem/OO_Draw_Simple_AbstractMember_CS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<StartPtr>
+<X>101</X>
+<Y>151</Y>
+</StartPtr>
+<EndPtr>
+<X>347</X>
+<Y>288</Y>
+</EndPtr>
+<Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Color>
+<Shape_x002B_StartPtr>
+<X>101</X>
+<Y>151</Y>
+</Shape_x002B_StartPtr>
+<Shape_x002B_EndPtr>
+<X>347</X>
+<Y>288</Y>
+</Shape_x002B_EndPtr>
+<Shape_x002B_Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Shape_x002B_Color>
+</a3:Ellipse>
+<a3:Ellipse id="ref-5" xmlns:a3="http://schemas.microsoft.com/clr/assem/OO_Draw_Simple_AbstractMember_CS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<StartPtr>
+<X>405</X>
+<Y>114</Y>
+</StartPtr>
+<EndPtr>
+<X>433</X>
+<Y>282</Y>
+</EndPtr>
+<Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Color>
+<Shape_x002B_StartPtr>
+<X>405</X>
+<Y>114</Y>
+</Shape_x002B_StartPtr>
+<Shape_x002B_EndPtr>
+<X>433</X>
+<Y>282</Y>
+</Shape_x002B_EndPtr>
+<Shape_x002B_Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Shape_x002B_Color>
+</a3:Ellipse>
+<a3:Ellipse id="ref-6" xmlns:a3="http://schemas.microsoft.com/clr/assem/OO_Draw_Simple_AbstractMember_CS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<StartPtr>
+<X>249</X>
+<Y>212</Y>
+</StartPtr>
+<EndPtr>
+<X>474</X>
+<Y>265</Y>
+</EndPtr>
+<Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Color>
+<Shape_x002B_StartPtr>
+<X>249</X>
+<Y>212</Y>
+</Shape_x002B_StartPtr>
+<Shape_x002B_EndPtr>
+<X>474</X>
+<Y>265</Y>
+</Shape_x002B_EndPtr>
+<Shape_x002B_Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Shape_x002B_Color>
+</a3:Ellipse>
+<a3:Ellipse id="ref-7" xmlns:a3="http://schemas.microsoft.com/clr/assem/OO_Draw_Simple_AbstractMember_CS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<StartPtr>
+<X>148</X>
+<Y>78</Y>
+</StartPtr>
+<EndPtr>
+<X>62</X>
+<Y>235</Y>
+</EndPtr>
+<Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Color>
+<Shape_x002B_StartPtr>
+<X>148</X>
+<Y>78</Y>
+</Shape_x002B_StartPtr>
+<Shape_x002B_EndPtr>
+<X>62</X>
+<Y>235</Y>
+</Shape_x002B_EndPtr>
+<Shape_x002B_Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Shape_x002B_Color>
+</a3:Ellipse>
+<a3:Ellipse id="ref-8" xmlns:a3="http://schemas.microsoft.com/clr/assem/OO_Draw_Simple_AbstractMember_CS%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<StartPtr>
+<X>132</X>
+<Y>291</Y>
+</StartPtr>
+<EndPtr>
+<X>370</X>
+<Y>293</Y>
+</EndPtr>
+<Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Color>
+<Shape_x002B_StartPtr>
+<X>132</X>
+<Y>291</Y>
+</Shape_x002B_StartPtr>
+<Shape_x002B_EndPtr>
+<X>370</X>
+<Y>293</Y>
+</Shape_x002B_EndPtr>
+<Shape_x002B_Color>
+<name xsi:null="1"/>
+<value>0</value>
+<knownColor>140</knownColor>
+<state>1</state>
+</Shape_x002B_Color>
+</a3:Ellipse>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

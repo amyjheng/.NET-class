@@ -1,0 +1,36 @@
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\ResolveAssemblyReference.cache
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Form1.resources
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Properties.Resources.resources
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csproj.GenerateResource.Cache
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+C:\fionwang\C# MSIT 養成班\CSharp 進階\MSIT 元件開發\HW\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\obj\Debug\ResolveAssemblyReference.cache
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Form1.resources
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Properties.Resources.resources
+E:\C# 進階作業\Shared\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csproj.GenerateResource.Cache
+E:\C# 進階作業\Shared\HomeWork\HW 3\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+E:\C# 進階作業\Shared\HomeWork\HW 3\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csprojResolveAssemblyReference.cache
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Form1.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Properties.Resources.resources
+D:\隨身碟\KingStone\MSIT VS2010 New\MSIT 上課\元件開發 上課 New\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csproj.GenerateResource.Cache
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.exe.config
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\bin\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csprojAssemblyReference.cache
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Form1.resources
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.Properties.Resources.resources
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csproj.GenerateResource.cache
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.csproj.CoreCompileInputs.cache
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.exe
+C:\C#進階\作業\HW\HW3 OO Draw\OO_Draw_Simple_AbstractMember_CS\obj\Debug\OO_Draw_Simple_AbstractMember_CS.pdb
